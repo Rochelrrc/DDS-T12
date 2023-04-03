@@ -1,2 +1,2 @@
 # meu-primeiro-repo
-O primeiro repositorio academico de um futuro Desenvolvedor fullstack em formação
+O primeiro repositório acadêmico de um futuro Desenvolvedor fullstack em formação.
