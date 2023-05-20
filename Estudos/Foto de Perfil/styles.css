@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.perfil {
+    border-radius: 50%;
+    width: 500px;
+    margin: 10px;
+}
+
+img.perfil {
+    border-style: double;
+    border-color: rgb(170, 167, 167);
+    border-width: 10px;
+}
+
+.perfil:hover {
+    border-radius: 0%;
+    border-width: 10px;
+    border-radius: 5%;
+    border-width: 8px;
+    width: auto;
+}

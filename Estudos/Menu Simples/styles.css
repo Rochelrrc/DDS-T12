@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu ul {
+    margin-top: 50px;
+    margin-left: 100px;
+    list-style: none;
+    width: 150px;
+    height: 150px;
+    border: solid 1px lightgrey;
+}
+
+.menu ul li {
+    display: block;
+    height: 37px;
+}
+
+.menu ul li a {
+    display: block;
+    color: gray;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding: 12px 15px 0px 15px;
+    height: 100%;
+}
+
+.menu ul li a:hover {
+    background-color: aquamarine;
+    color: white;
+}
+
+.menu ul li a:hover::before {
+    content: "> ";
+}
