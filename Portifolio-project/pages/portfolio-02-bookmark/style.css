@@ -1,0 +1,270 @@
+.img-manage {
+    display: flex;
+    margin: 50px auto;
+
+    height: 500px;
+    width: 1000px;
+
+    background-color: aqua;
+}
+
+.img-manage img {
+    height: 500px;
+    width: 1110px;
+}
+
+main {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    margin: 50px auto;
+    gap: 60px;
+    width: 1000px;
+
+
+
+}
+
+.manage-descricao {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+.titulo-manage {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    /* identical to box height, or 105% */
+
+    letter-spacing: -0.357143px;
+
+    color: #33323D;
+
+}
+
+.text-manage {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 188% */
+
+
+    color: #33323D;
+
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.iteraction-designe {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+
+
+    color: #5FB4A2;
+}
+
+.ferramentas {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+
+
+    color: #5FB4A2;
+}
+
+.visit-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 48px;
+    width: 175px;
+
+    border: 1px solid #33323D;
+}
+
+.visit-button a {
+    text-decoration: none;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #33323D;
+
+}
+
+.manage-apresentacao {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.projeto {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.projeto h2 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    /* identical to box height, or 131% */
+
+    letter-spacing: -0.285714px;
+
+    color: #33323D;
+
+}
+
+.projeto p {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    /* or 200% */
+
+
+    color: #33323D;
+
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.preview {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.preview h2 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    /* identical to box height, or 131% */
+
+    letter-spacing: -0.285714px;
+
+    color: #33323D;
+}
+
+.preview img {
+    height: 400px;
+    width: 635px;
+
+}
+
+.nav-project {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: space-between;
+
+    width: 1110px;
+    height: 130px;
+    margin: 0 auto;
+
+}
+
+.setas-nav {
+    display: flex;
+
+    align-items: center;
+    justify-items: center;
+    justify-content: space-between;
+
+
+}
+
+.setas-nav img {
+    height: 16px;
+    width: 8px;
+}
+
+.setas-nav a {
+    text-decoration: none;
+}
+
+.esquerda {
+    margin-right: 800px;
+}
+
+.esquerda h2 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    /* identical to box height, or 112% */
+
+    letter-spacing: -0.285714px;
+
+    color: #33323D;
+}
+
+.esquerda p {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+
+
+    color: #33323D;
+
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+
+.direita h2 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    /* identical to box height, or 112% */
+
+    letter-spacing: -0.285714px;
+
+    color: #33323D;
+}
+
+.direita p {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+
+
+    color: #33323D;
+
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
